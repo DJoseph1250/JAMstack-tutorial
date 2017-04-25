@@ -1,6 +1,5 @@
 ---
 title: Ja Mstack Tutorial
-snipcart_api_key: ''
 timezone: UTC
 collections:
   posts:
@@ -29,4 +28,5 @@ defaults:
     type: pages
   values:
     layout: page
+snipcart_api_key: ''
 permalink: pretty
