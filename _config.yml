@@ -1,5 +1,6 @@
 ---
 title: Ja Mstack Tutorial
+snipcart_api_key: ''
 timezone: UTC
 collections:
   posts:
@@ -11,3 +12,21 @@ collections:
   uploads:
     title: Uploads
     output: true
+defaults:
+- scope:
+    path: ''
+    type: products
+  values:
+    layout: product
+    permalink: "/products/:title/"
+    name: ''
+    price: 0.0
+    sku: ''
+    image: ''
+    weight: 0.0
+- scope:
+    path: ''
+    type: pages
+  values:
+    layout: page
+permalink: pretty
