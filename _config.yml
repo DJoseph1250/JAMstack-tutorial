@@ -1,5 +1,5 @@
 ---
-title: Ja Mstack Tutorial
+title: JAMstack Tutorial
 timezone: UTC
 collections:
   posts:
@@ -28,5 +28,5 @@ defaults:
     type: pages
   values:
     layout: page
-snipcart_api_key: ''
+snipcart_api_key: 
 permalink: pretty
