@@ -6,6 +6,7 @@ price: 75
 sku: 9780262028288
 image: https://mitpress.mit.edu/sites/default/files/imagecache/booklist_node/9780262028288.jpg
 weight: 10
+layout: productdetails
 ---
 
 Processing, Second Edition
